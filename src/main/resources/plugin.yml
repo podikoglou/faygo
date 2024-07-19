@@ -1,0 +1,7 @@
+name: Faygo
+version: 1.0
+author: alex
+main: me.alex.faygo.FaygoPlugin
+depend:
+  - cDatabaseClient
+  - ProtocolLib
